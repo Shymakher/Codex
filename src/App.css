@@ -1,0 +1,8 @@
+.container {
+    padding: 40px 80px;
+}
+
+.container .main {
+    display: flex;
+    justify-content: space-around;
+}
